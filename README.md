@@ -15,9 +15,17 @@ A command-line tool that allows you to manage a single **Source of Truth** markd
 
 ---
 
-## Installation & Running
+## Quickstart 🚀
 
-Since it has zero external dependencies, you can run it directly using Node.js.
+The easiest way to run the tool is directly via `npx` without any installation:
+
+```bash
+npx rules-md
+```
+
+---
+
+## Local Installation & Running
 
 ### Run directly with Node
 
