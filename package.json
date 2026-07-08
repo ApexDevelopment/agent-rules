@@ -1,0 +1,27 @@
+{
+  "name": "agent-rules",
+  "version": "1.0.0",
+  "description": "Interactive CLI tool to symlink/hardlink coding agent rules to a central Source of Truth",
+  "main": "index.js",
+  "bin": {
+    "agent-rules": "./index.js"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "rules",
+    "claude",
+    "cursor",
+    "copilot",
+    "aider",
+    "windsurf"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
