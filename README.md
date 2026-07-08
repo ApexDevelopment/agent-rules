@@ -29,7 +29,7 @@ node index.js
 
 ### Install globally (Optional)
 
-To make the `agent-rules` command available anywhere on your system:
+To make the `rules-md` command available anywhere on your system:
 
 ```bash
 npm link
@@ -40,7 +40,7 @@ npm install -g .
 Then simply run:
 
 ```bash
-agent-rules
+rules-md
 ```
 
 ---
