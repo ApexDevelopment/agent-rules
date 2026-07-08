@@ -4,7 +4,7 @@
 	"description": "Interactive CLI tool to symlink/hardlink coding agent rules to a central Source of Truth",
 	"main": "index.js",
 	"bin": {
-		"rules-md": "./index.js"
+		"rules-md": "index.js"
 	},
 	"type": "commonjs",
 	"scripts": {
