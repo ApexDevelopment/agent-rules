@@ -321,7 +321,7 @@ async function main() {
 	};
 
 	// 1. Confirm Source of Truth file
-	const defaultSource = "~/global-rules.md";
+	const defaultSource = "~/RULES.md";
 	const sourcePrompt = await prompts(
 		{
 			type: "text",

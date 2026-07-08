@@ -4,7 +4,7 @@ A command-line tool that allows you to manage a single **Source of Truth** markd
 
 ## Features
 
-- **Centralized Source of Truth**: Define your persona, coding standards, preferred libraries, and workflow configurations in one place (defaults to `~/global-rules.md`).
+- **Centralized Source of Truth**: Define your persona, coding standards, preferred libraries, and workflow configurations in one place (defaults to `~/RULES.md`).
 - **Interactive Console UI**: An easy-to-use checklist terminal interface to select which agents to target.
 - **Smart Merger**: If you already have existing rule files for specific agents, you can append their contents to your Source of Truth or back them up.
 - **Robust Symlink/Hardlink Fallbacks**:
