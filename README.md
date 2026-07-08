@@ -70,6 +70,8 @@ rules-md
 | **OpenCode**                   | `~/.config/opencode/AGENTS.md`                                          | Standard OpenCode path.                     |
 | **Pi Agent**                   | `~/.pi/agent/AGENTS.md`                                                 | Pi Agent instructions path.                 |
 | **OpenAI Codex**               | `~/.codex/AGENTS.md`                                                    | OpenAI Codex agent global rules file.       |
+| **Kimi Code CLI**              | `~/.kimi-code/AGENTS.md`                                                | Kimi Code CLI global instructions.          |
+| **Mistral Vibe CLI**           | `~/.vibe/AGENTS.md`                                                     | Mistral Vibe CLI global rules.              |
 
 ---
 

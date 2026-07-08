@@ -106,6 +106,18 @@ const tools = [
 		path: "~/.codex/AGENTS.md",
 		desc: "Codex agent global instructions.",
 	},
+	{
+		id: "kimi",
+		name: "Kimi Code CLI",
+		path: "~/.kimi-code/AGENTS.md",
+		desc: "Kimi Code CLI global instructions.",
+	},
+	{
+		id: "vibe",
+		name: "Mistral Vibe CLI",
+		path: "~/.vibe/AGENTS.md",
+		desc: "Mistral Vibe CLI global rules.",
+	},
 ];
 
 // Helper to resolve paths with env vars and tilde
